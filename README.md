@@ -1,2 +1,2 @@
 # EE408_EEG_auth
-EEG based person authentication
+EEG-Based person authentication using machine learning with auditory stimuli
